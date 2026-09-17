@@ -1,0 +1,42 @@
+body
+{
+    margin: 0;
+    padding: 0;
+} 
+
+h1
+{
+background-color: rgb(86, 38, 96);
+color: rgb(176, 147, 203);
+text-align: center;
+margin: 0;
+padding: 20px;
+}
+
+div
+{
+    border: 1px solid gold ;
+    margin: 10px;
+    padding: 10px;
+}
+
+h3
+{
+    color: purple;
+}
+.azul
+{
+    color: blue;
+}
+.negrito
+{
+    font-weight: bold;
+}
+.italico
+{
+    font-style: italic;
+}
+.sublinhado
+{
+    text-decoration: underline;
+}
