@@ -1,0 +1,30 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+h1
+{
+    color: rgb(131, 101, 189);
+    background-color: rgb(192, 189, 115);
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+.conteudo
+{
+    font-size: 20px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.subtitulo
+{
+    font-size: 30px;
+    color: rgb(90, 78, 132);
+    font-weight: bold;
+    text-decoration: underline;
+}
+
