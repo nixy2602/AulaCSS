@@ -101,3 +101,29 @@ h1
 {
     text-align: left;
 }
+
+.exemplo4
+{
+   display: flex;
+   flex-direction:column ;
+   justify-content: space-between;
+   height: 100vh;
+}
+
+.linha
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.linha p
+{
+   margin: 0;
+   padding: 0; 
+
+   background-color: darkseagreen;
+   color: darkcyan;
+
+   width: 100px;
+   height:50px;
+}
