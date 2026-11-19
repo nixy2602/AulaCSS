@@ -139,16 +139,37 @@ h1
 
 .menu
 {
-    height: 50px;
+    display: flex;
+    height: 100px;
 
-    background-color: beige;
-    color: black;
+    background-color: rgb(211, 167, 101);
+    color: rgb(247, 214, 214);
     font-size: 25px;
 
     justify-content: space-around;
+    align-items: center;
 }
 
-.opecoes
+.menu img
+{
+    height: 75px;
+}
+
+.opcoes
 {
     display: flex;
+}
+
+.opcoes a
+{
+ color:white ;
+ margin-right: 10px;
+ text-decoration: none;
+}
+
+.opcoes a:hover
+{
+    color: black;
+    text-decoration: underline;
+    text-decoration-color: aquamarine;
 }
